@@ -1,4 +1,4 @@
-# Análisis de vídeo
+# Game-view
 
 Aplicación local para analizar grabaciones de fútbol y base para comparar
 detectores y seguimiento. Extraída de la pestaña Vídeo de
